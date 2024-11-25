@@ -1,0 +1,96 @@
+#main-div {
+    margin: 5px;
+    padding: 5px;
+    background: #e8e8e8;
+	  width: 430px;
+	  overflow: auto;
+	  font-family: 'Libre Caslon Display', serif;
+	font-size: 20px;
+	text-align: center;
+}
+span {
+	font-family: 'Oswald', sans-serif;
+	font-size: 17px;
+}
+.long-box {
+	background: #ea4848;
+	font-family: 'Oswald', sans-serif;
+	font-size: 30px;
+	line-height:120%;
+	padding: 30px 15px 20px 15px;
+	width: 185px;
+	float: left;
+}
+.long-font {
+	font-family: 'Libre Caslon Display', serif;
+	font-size: 25px;
+}
+.top-right-box {
+	background: #6666ff;
+	width: 185px;
+	height: 170px;
+	float: left;
+	padding: 35px 15px 5px;
+	line-height:120%;
+}
+.minty-box {
+	background: #ccffff;
+	width: 185px;
+	height: 169px;
+	float: left;
+	padding: 45px 15px 0px;
+	line-height:120%;
+}
+.dark-green-box {
+	background: #00b3b3;
+	width: 185px;
+	height: 165px;
+	float: left;
+	padding: 45px 15px 0px;
+	line-height:120%;
+}
+.blue-box-two {
+	background: #6666ff;
+	width: 185px;
+	height: 170px;
+	float: left;
+	padding: 35px 15px 5px;
+	line-height:120%;
+}
+
+#main-two{
+   width: 215px;
+   height: 430px;
+	 overflow: auto;
+   float: left;
+}
+.minty-box-two {
+	background: #ccffff;
+	width: 185px;
+	height: 169px;
+	padding: 45px 15px 0px;
+	line-height:120%;
+}
+
+.dark-green-box-two {
+	background: #00b3b3;
+	width: 185px;
+	height: 165px;
+	padding: 45px 15px 0px;
+	line-height:120%;
+}
+
+.long-box-two {
+	background: #ea4848;
+	font-family: 'Oswald', sans-serif;
+	font-size: 28px;
+	line-height:120%;
+	padding: 30px 15px 8px 15px;
+	width: 185px;
+	float: left;
+}
+
+.long-font-two {
+	font-family: 'Libre Caslon Display', serif;
+	font-size: 25px;
+}
